@@ -14,12 +14,4 @@ ntime = None
 clean_jobs = None
 sub_details = None
 extranonce1 = None
-extranonce2_size = None
-
-# =====================================
-# Programmer : Mmdrza
-# Website : https://Mmdrza.Com
-# Email : X4@Mmdrza.Com
-# PyMmdrza.GitHub.io
-# Dev.to/Mmdrza
-# =====================================
+extranonce2_size = None =====================================
